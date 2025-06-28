@@ -1,0 +1,14 @@
+*.log
+*.env
+.DS_Store
+
+/target/
+/*.iml
+*.class
+
+node_modules/
+dist/
+build/
+
+.idea/
+.vscode/
